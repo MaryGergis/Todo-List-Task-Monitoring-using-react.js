@@ -37,7 +37,7 @@ function App() {
               <Navbar/>
               <TasksContextProvider>
               <Routes>
-                {["Home", "/", "Todo-List-react.js-website"].map((path, index) => (
+                {["Home", "/", "Todo-List-Task-Monitoring-using-react.js"].map((path, index) => (
                   <Route path={path} element={<Home />} key={index} />
                 ))}
 

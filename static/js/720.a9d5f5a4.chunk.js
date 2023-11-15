@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktodo_list_website=self.webpackChunktodo_list_website||[]).push([[720],{847:(d,e,s)=>{s.d(e,{Z:()=>t});s(791);const t=s.p+"static/media/imgUpload.41dc1dee2074ac32ec14d18fdb9051ba.svg"},928:(d,e,s)=>{s.d(e,{Z:()=>t});const t={uploadField:"AddTask_uploadField__mrQn4"}}}]);
+//# sourceMappingURL=720.a9d5f5a4.chunk.js.map
